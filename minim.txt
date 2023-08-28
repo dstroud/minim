@@ -1,5 +1,5 @@
 M I N I M 
-
+@MODULARBEAT
 
 
 SCALE: %8
